@@ -1,4 +1,5 @@
 ### Hi there 👋
+### Sometimes I like to draw RAM
 
 <!--
 **bawamohit/bawamohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
